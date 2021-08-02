@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Sanity Test Suite" parallel="tests" thread-count="2">
+
+	<listeners>
+		<listener class-name="listners.ExtentReport" />
+	</listeners>
+
+	<test name="HomePage_AboutUs" group-by-instances="true">
+		<parameter name="browser" value="chrome" />
+		<parameter name="version" value="80" />
+		<classes>
+			<class name="tests.HomePageTest" />
+			<class name="tests.AboutUsePageTest" />
+		</classes>
+	</test>
+
+	<test name="LogIn_RequestDemo" group-by-instances="true">
+		<parameter name="browser" value="firefox" />
+		<parameter name="version" value="80" />
+		<parameter name="url" value="cibikarthik" />
+		<parameter name="requestDemo" value="US | CPG, Retail" />
+		<parameter name="month" value="August" />
+		<parameter name="date" value="4" />
+		<parameter name="time" value="1:00am" />
+		<classes>
+			<class name="tests.LogInPageTest" />
+			<class name="tests.RequestADemoTest" />
+		</classes>
+	</test>
+
+</suite>
+

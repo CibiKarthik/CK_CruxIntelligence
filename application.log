@@ -1,0 +1,282 @@
+2021-08-02 17:17:32,511  INFO [TestNG-tests-1] ElementUtils:55 - Test Suite Started!
+2021-08-02 17:17:32,513  INFO [TestNG-tests-2] ElementUtils:55 - Test Suite Started!
+2021-08-02 17:17:32,542  INFO [TestNG-tests-2] ElementUtils:79 - firefox
+2021-08-02 17:17:32,542  INFO [TestNG-tests-2] ElementUtils:80 - 80
+2021-08-02 17:17:32,542  INFO [TestNG-tests-1] ElementUtils:79 - chrome
+2021-08-02 17:17:32,543  INFO [TestNG-tests-1] ElementUtils:80 - 80
+2021-08-02 17:17:32,920 DEBUG [TestNG-tests-1] ResolutionCache:187 - Resolution chrome=92 in cache (valid until 18:11:32 02/08/2021 IST)
+2021-08-02 17:17:32,920 DEBUG [TestNG-tests-2] ResolutionCache:187 - Resolution firefox=90 in cache (valid until 17:23:36 02/08/2021 IST)
+2021-08-02 17:17:32,923 DEBUG [TestNG-tests-1] ResolutionCache:187 - Resolution chrome92=92.0.4515.107 in cache (valid until 11:12:12 03/08/2021 IST)
+2021-08-02 17:17:32,923 DEBUG [TestNG-tests-2] ResolutionCache:187 - Resolution firefox90=0.29.0 in cache (valid until 16:23:36 03/08/2021 IST)
+2021-08-02 17:17:32,923  INFO [TestNG-tests-1] WebDriverManager:605 - Using chromedriver 92.0.4515.107 (resolved driver for Chrome 92)
+2021-08-02 17:17:32,924  INFO [TestNG-tests-2] WebDriverManager:605 - Using geckodriver 0.29.0 (resolved driver for Firefox 90)
+2021-08-02 17:17:32,947 DEBUG [TestNG-tests-1] WebDriverManager:562 - Driver chromedriver 92.0.4515.107 found in cache
+2021-08-02 17:17:32,947 DEBUG [TestNG-tests-2] WebDriverManager:562 - Driver geckodriver 0.29.0 found in cache
+2021-08-02 17:17:32,949  INFO [TestNG-tests-1] WebDriverManager:661 - Exporting webdriver.chrome.driver as C:\Users\Cibi Karthik\.cache\selenium\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-02 17:17:32,949  INFO [TestNG-tests-2] WebDriverManager:661 - Exporting webdriver.gecko.driver as C:\Users\Cibi Karthik\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe
+2021-08-02 17:17:43,842  INFO [TestNG-tests-1] ElementUtils:70 - verifyLoginPageTitleTest started!
+2021-08-02 17:17:43,888  INFO [TestNG-tests-1] ElementUtils:30 - Title of the Page is: Augmented Business Intelligence | Crux Intelligence
+2021-08-02 17:17:43,899  INFO [TestNG-tests-1] ElementUtils:80 - verifyLoginPageTitleTest --- Passed!
+2021-08-02 17:17:43,920  INFO [TestNG-tests-1] ElementUtils:70 - checkHeaderLinks started!
+2021-08-02 17:17:43,984  INFO [TestNG-tests-1] ElementUtils:42 - Retrieving Element: ABOUT US
+2021-08-02 17:17:44,026  INFO [TestNG-tests-1] ElementUtils:21 - Flashing over the Element: ABOUT US
+2021-08-02 17:17:44,252  INFO [TestNG-tests-1] ElementUtils:42 - Retrieving Element: ABOUT US
+2021-08-02 17:17:44,293  INFO [TestNG-tests-1] ElementUtils:21 - Flashing over the Element: ABOUT US
+2021-08-02 17:17:44,557  INFO [TestNG-tests-1] ElementUtils:73 - Element Presence for: ABOUT US - true
+2021-08-02 17:17:44,601  INFO [TestNG-tests-1] ElementUtils:42 - Retrieving Element: ABOUT US
+2021-08-02 17:17:44,641  INFO [TestNG-tests-1] ElementUtils:21 - Flashing over the Element: ABOUT US
+2021-08-02 17:17:44,899  INFO [TestNG-tests-1] ElementUtils:42 - Retrieving Element: LOG IN
+2021-08-02 17:17:44,930  INFO [TestNG-tests-1] ElementUtils:21 - Flashing over the Element: LOG IN
+2021-08-02 17:17:45,106  INFO [TestNG-tests-1] ElementUtils:42 - Retrieving Element: LOG IN
+2021-08-02 17:17:45,127  INFO [TestNG-tests-1] ElementUtils:21 - Flashing over the Element: LOG IN
+2021-08-02 17:17:45,273  INFO [TestNG-tests-1] ElementUtils:73 - Element Presence for: LOG IN - true
+2021-08-02 17:17:45,301  INFO [TestNG-tests-1] ElementUtils:42 - Retrieving Element: LOG IN
+2021-08-02 17:17:45,324  INFO [TestNG-tests-1] ElementUtils:21 - Flashing over the Element: LOG IN
+2021-08-02 17:17:45,527  INFO [TestNG-tests-1] ElementUtils:42 - Retrieving Element: REQUEST A DEMO
+2021-08-02 17:17:45,556  INFO [TestNG-tests-1] ElementUtils:21 - Flashing over the Element: REQUEST A DEMO
+2021-08-02 17:17:45,722  INFO [TestNG-tests-1] ElementUtils:42 - Retrieving Element: REQUEST A DEMO
+2021-08-02 17:17:45,747  INFO [TestNG-tests-1] ElementUtils:21 - Flashing over the Element: REQUEST A DEMO
+2021-08-02 17:17:45,900  INFO [TestNG-tests-1] ElementUtils:73 - Element Presence for: REQUEST A DEMO - true
+2021-08-02 17:17:45,928  INFO [TestNG-tests-1] ElementUtils:42 - Retrieving Element: REQUEST A DEMO
+2021-08-02 17:17:45,952  INFO [TestNG-tests-1] ElementUtils:21 - Flashing over the Element: REQUEST A DEMO
+2021-08-02 17:17:46,102  INFO [TestNG-tests-1] ElementUtils:80 - checkHeaderLinks --- Passed!
+2021-08-02 17:17:46,925  INFO [TestNG-tests-1] ElementUtils:79 - chrome
+2021-08-02 17:17:46,926  INFO [TestNG-tests-1] ElementUtils:80 - 80
+2021-08-02 17:17:46,941 DEBUG [TestNG-tests-1] ResolutionCache:187 - Resolution chrome=92 in cache (valid until 18:11:32 02/08/2021 IST)
+2021-08-02 17:17:46,944 DEBUG [TestNG-tests-1] ResolutionCache:187 - Resolution chrome92=92.0.4515.107 in cache (valid until 11:12:12 03/08/2021 IST)
+2021-08-02 17:17:46,945  INFO [TestNG-tests-1] WebDriverManager:605 - Using chromedriver 92.0.4515.107 (resolved driver for Chrome 92)
+2021-08-02 17:17:46,959 DEBUG [TestNG-tests-1] WebDriverManager:562 - Driver chromedriver 92.0.4515.107 found in cache
+2021-08-02 17:17:46,961  INFO [TestNG-tests-1] WebDriverManager:661 - Exporting webdriver.chrome.driver as C:\Users\Cibi Karthik\.cache\selenium\chromedriver\win32\92.0.4515.107\chromedriver.exe
+2021-08-02 17:17:47,398  INFO [TestNG-tests-2] ElementUtils:70 - navToLogin started!
+2021-08-02 17:17:47,446  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: LOG IN
+2021-08-02 17:17:47,466  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: LOG IN
+2021-08-02 17:17:49,882  INFO [TestNG-tests-2] ElementUtils:58 - Clicked on Element :LOG IN
+2021-08-02 17:17:49,901  INFO [TestNG-tests-2] ElementUtils:30 - Title of the Page is: App - Augmented Business Intelligence | Crux Intelligence
+2021-08-02 17:17:49,903  INFO [TestNG-tests-2] ElementUtils:80 - navToLogin --- Passed!
+2021-08-02 17:17:49,907  INFO [TestNG-tests-2] ElementUtils:70 - enterWorkURL started!
+2021-08-02 17:17:49,938 DEBUG [TestNG-tests-2] ElementUtils:104 - Explicit wait for the Element to be Present
+2021-08-02 17:17:49,964  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: 
+2021-08-02 17:17:49,989  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: 
+2021-08-02 17:17:50,271  INFO [TestNG-tests-2] ElementUtils:51 - Cleared text field for: By.cssSelector: #userInput
+2021-08-02 17:17:50,317  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: 
+2021-08-02 17:17:50,350  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: 
+2021-08-02 17:17:50,517  INFO [TestNG-tests-2] ElementUtils:53 - Entering the value: cibikarthik
+2021-08-02 17:17:50,541  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: .cruxintelligence.com
+2021-08-02 17:17:50,564  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: .cruxintelligence.com
+2021-08-02 17:17:50,860  INFO [TestNG-tests-2] ElementUtils:68 - Retrieving Element text: .cruxintelligence.com
+2021-08-02 17:17:50,876  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: .cruxintelligence.com
+2021-08-02 17:17:50,888  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: .cruxintelligence.com
+2021-08-02 17:17:51,029  INFO [TestNG-tests-2] ElementUtils:40 - Entered URL is: cibikarthik.cruxintelligence.com
+2021-08-02 17:17:51,050  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: Log In
+2021-08-02 17:17:51,070  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: Log In
+2021-08-02 17:17:51,252  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: Log In
+2021-08-02 17:17:51,270  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: Log In
+2021-08-02 17:17:51,480  INFO [TestNG-tests-2] ElementUtils:73 - Element Presence for: Log In - true
+2021-08-02 17:17:51,511  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: Log In
+2021-08-02 17:17:51,535  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: Log In
+2021-08-02 17:17:51,763  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: Log In
+2021-08-02 17:17:51,784  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: Log In
+2021-08-02 17:17:52,212  INFO [TestNG-tests-2] ElementUtils:58 - Clicked on Element :Log In
+2021-08-02 17:17:52,239 DEBUG [TestNG-tests-2] ElementUtils:104 - Explicit wait for the Element to be PresentWrong Work URL. Please try again.
+2021-08-02 17:17:52,263  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: Wrong Work URL. Please try again.
+2021-08-02 17:17:52,275  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: Wrong Work URL. Please try again.
+2021-08-02 17:17:52,424  INFO [TestNG-tests-2] ElementUtils:68 - Retrieving Element text: Wrong Work URL. Please try again.
+2021-08-02 17:17:52,441  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: Wrong Work URL. Please try again.
+2021-08-02 17:17:52,462  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: Wrong Work URL. Please try again.
+2021-08-02 17:17:52,611  INFO [TestNG-tests-2] ElementUtils:50 - Message is Displayed: Wrong Work URL. Please try again.
+2021-08-02 17:17:52,621  INFO [TestNG-tests-2] ElementUtils:80 - enterWorkURL --- Passed!
+2021-08-02 17:17:54,784  INFO [TestNG-tests-2] ElementUtils:79 - firefox
+2021-08-02 17:17:54,784  INFO [TestNG-tests-2] ElementUtils:80 - 80
+2021-08-02 17:17:54,803 DEBUG [TestNG-tests-2] ResolutionCache:187 - Resolution firefox=90 in cache (valid until 17:23:36 02/08/2021 IST)
+2021-08-02 17:17:54,806 DEBUG [TestNG-tests-2] ResolutionCache:187 - Resolution firefox90=0.29.0 in cache (valid until 16:23:36 03/08/2021 IST)
+2021-08-02 17:17:54,806  INFO [TestNG-tests-2] WebDriverManager:605 - Using geckodriver 0.29.0 (resolved driver for Firefox 90)
+2021-08-02 17:17:54,821 DEBUG [TestNG-tests-2] WebDriverManager:562 - Driver geckodriver 0.29.0 found in cache
+2021-08-02 17:17:54,824  INFO [TestNG-tests-2] WebDriverManager:661 - Exporting webdriver.gecko.driver as C:\Users\Cibi Karthik\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe
+2021-08-02 17:17:57,510  INFO [TestNG-tests-1] ElementUtils:70 - navToAbousUs started!
+2021-08-02 17:17:57,600  INFO [TestNG-tests-1] ElementUtils:42 - Retrieving Element: ABOUT US
+2021-08-02 17:17:57,657  INFO [TestNG-tests-1] ElementUtils:21 - Flashing over the Element: ABOUT US
+2021-08-02 17:18:03,225  INFO [TestNG-tests-1] ElementUtils:58 - Clicked on Element :ABOUT US
+2021-08-02 17:18:03,261  INFO [TestNG-tests-1] ElementUtils:30 - Title of the Page is: About Us | Augmented Business Intelligence | Crux Intelligence
+2021-08-02 17:18:03,265  INFO [TestNG-tests-1] ElementUtils:80 - navToAbousUs --- Passed!
+2021-08-02 17:18:03,272  INFO [TestNG-tests-1] ElementUtils:70 - checkTeamMembers started!
+2021-08-02 17:18:03,317 DEBUG [TestNG-tests-1] ElementUtils:117 - Element is present: By.xpath: //a[text() = 'Sumith Balagangadharan']
+2021-08-02 17:18:03,381  INFO [TestNG-tests-1] ElementUtils:51 - Scrolling into View of the Element using JavaScript Executer
+2021-08-02 17:18:03,478  INFO [TestNG-tests-1] ElementUtils:42 - Retrieving Element: Head of Technology
+2021-08-02 17:18:03,522  INFO [TestNG-tests-1] ElementUtils:21 - Flashing over the Element: Head of Technology
+2021-08-02 17:18:03,679  INFO [TestNG-tests-1] ElementUtils:68 - Retrieving Element text: Head of Technology
+2021-08-02 17:18:03,726  INFO [TestNG-tests-1] ElementUtils:42 - Retrieving Element: Head of Technology
+2021-08-02 17:18:03,771  INFO [TestNG-tests-1] ElementUtils:21 - Flashing over the Element: Head of Technology
+2021-08-02 17:18:03,994 DEBUG [TestNG-tests-1] ElementUtils:117 - Element is present: By.xpath: //a[text() = 'Ganesh Subramanian']
+2021-08-02 17:18:04,035  INFO [TestNG-tests-1] ElementUtils:51 - Scrolling into View of the Element using JavaScript Executer
+2021-08-02 17:18:04,165  INFO [TestNG-tests-1] ElementUtils:42 - Retrieving Element: Head of Product
+2021-08-02 17:18:04,212  INFO [TestNG-tests-1] ElementUtils:21 - Flashing over the Element: Head of Product
+2021-08-02 17:18:04,420  INFO [TestNG-tests-1] ElementUtils:68 - Retrieving Element text: Head of Product
+2021-08-02 17:18:04,453  INFO [TestNG-tests-1] ElementUtils:42 - Retrieving Element: Head of Product
+2021-08-02 17:18:04,476  INFO [TestNG-tests-1] ElementUtils:21 - Flashing over the Element: Head of Product
+2021-08-02 17:18:04,592  INFO [TestNG-tests-1] ElementUtils:80 - checkTeamMembers --- Passed!
+2021-08-02 17:18:05,398  INFO [TestNG-tests-1] ElementUtils:59 - Test Suite is Ending!
+2021-08-02 17:18:05,448 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-02 17:18:05,451 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2021-08-02 17:18:05,456 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2021-08-02 17:18:05,458 DEBUG [TestNG-tests-1] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Cibi%20Karthik/.m2/repository/com/aventstack/extentreports/3.1.1/extentreports-3.1.1.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2021-08-02 17:18:05,862 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-02 17:18:05,864 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-08-02 17:18:05,865 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-08-02 17:18:05,866 DEBUG [TestNG-tests-1] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Cibi%20Karthik/.m2/repository/com/aventstack/extentreports/3.1.1/extentreports-3.1.1.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2021-08-02 17:18:05,872 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-02 17:18:05,874 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-08-02 17:18:05,875 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-08-02 17:18:05,876 DEBUG [TestNG-tests-1] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Cibi%20Karthik/.m2/repository/com/aventstack/extentreports/3.1.1/extentreports-3.1.1.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2021-08-02 17:18:05,893 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-02 17:18:05,894 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-08-02 17:18:05,896 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-08-02 17:18:05,896 DEBUG [TestNG-tests-1] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Cibi%20Karthik/.m2/repository/com/aventstack/extentreports/3.1.1/extentreports-3.1.1.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2021-08-02 17:18:05,927 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-02 17:18:05,928 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-08-02 17:18:05,929 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-08-02 17:18:05,930 DEBUG [TestNG-tests-1] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Cibi%20Karthik/.m2/repository/com/aventstack/extentreports/3.1.1/extentreports-3.1.1.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2021-08-02 17:18:05,953 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-02 17:18:05,954 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-08-02 17:18:05,955 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-08-02 17:18:05,956 DEBUG [TestNG-tests-1] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Cibi%20Karthik/.m2/repository/com/aventstack/extentreports/3.1.1/extentreports-3.1.1.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2021-08-02 17:18:05,999 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-08-02 17:18:06,002 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-08-02 17:18:06,005 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-08-02 17:18:06,009 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-08-02 17:18:06,012 DEBUG [TestNG-tests-1] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-08-02 17:18:06,014 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-02 17:18:06,015 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-08-02 17:18:06,016 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-08-02 17:18:06,017 DEBUG [TestNG-tests-1] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Cibi%20Karthik/.m2/repository/com/aventstack/extentreports/3.1.1/extentreports-3.1.1.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2021-08-02 17:18:06,032 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-02 17:18:06,033 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2021-08-02 17:18:06,034 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2021-08-02 17:18:06,035 DEBUG [TestNG-tests-1] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Cibi%20Karthik/.m2/repository/com/aventstack/extentreports/3.1.1/extentreports-3.1.1.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2021-08-02 17:18:06,044 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-02 17:18:06,045 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-08-02 17:18:06,046 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-08-02 17:18:06,047 DEBUG [TestNG-tests-1] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Cibi%20Karthik/.m2/repository/com/aventstack/extentreports/3.1.1/extentreports-3.1.1.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2021-08-02 17:18:06,053 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-02 17:18:06,054 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-08-02 17:18:06,055 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-08-02 17:18:06,055 DEBUG [TestNG-tests-1] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Cibi%20Karthik/.m2/repository/com/aventstack/extentreports/3.1.1/extentreports-3.1.1.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2021-08-02 17:18:06,065 DEBUG [TestNG-tests-1] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-02 17:18:06,067 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-08-02 17:18:06,068 DEBUG [TestNG-tests-1] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-08-02 17:18:06,068 DEBUG [TestNG-tests-1] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Cibi%20Karthik/.m2/repository/com/aventstack/extentreports/3.1.1/extentreports-3.1.1.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2021-08-02 17:18:09,488  INFO [TestNG-tests-2] ElementUtils:70 - navToRequestDemo started!
+2021-08-02 17:18:09,546  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: REQUEST A DEMO
+2021-08-02 17:18:09,570  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: REQUEST A DEMO
+2021-08-02 17:18:11,928  INFO [TestNG-tests-2] ElementUtils:58 - Clicked on Element :REQUEST A DEMO
+2021-08-02 17:18:11,945  INFO [TestNG-tests-2] ElementUtils:30 - Title of the Page is: Request Demo - Augmented Business Intelligence | Crux Intelligence
+2021-08-02 17:18:11,949  INFO [TestNG-tests-2] ElementUtils:80 - navToRequestDemo --- Passed!
+2021-08-02 17:18:11,957  INFO [TestNG-tests-2] ElementUtils:70 - selectRequestDemoOption started!
+2021-08-02 17:18:14,498  INFO [TestNG-tests-2] ElementUtils:97 - Explicit wait for the list of elements to be visible: 10
+2021-08-02 17:18:14,506 DEBUG [TestNG-tests-2] ElementUtils:80 - Size of the List obtained: 10
+2021-08-02 17:18:14,515 DEBUG [TestNG-tests-2] ElementUtils:82 - Elements available in ListUS | CPG, Retail
+2021-08-02 17:18:14,598  INFO [TestNG-tests-2] ElementUtils:45 - Clicking on the Element using JavaScript Executer
+2021-08-02 17:18:14,599 DEBUG [TestNG-tests-2] ElementUtils:90 - Expected Element is available: US | CPG, Retail
+2021-08-02 17:18:16,089  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: US | CPG, Retail
+2021-08-02 17:18:16,152  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: US | CPG, Retail
+2021-08-02 17:18:16,377  INFO [TestNG-tests-2] ElementUtils:68 - Retrieving Element text: US | CPG, Retail
+2021-08-02 17:18:16,401  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: US | CPG, Retail
+2021-08-02 17:18:16,420  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: US | CPG, Retail
+2021-08-02 17:18:16,709  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: August is now displayed
+2021-08-02 17:18:16,737  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: August is now displayed
+2021-08-02 17:18:16,923  INFO [TestNG-tests-2] ElementUtils:68 - Retrieving Element text: August is now displayed
+2021-08-02 17:18:16,951  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: August is now displayed
+2021-08-02 17:18:16,979  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: August is now displayed
+2021-08-02 17:18:23,827  INFO [TestNG-tests-2] ElementUtils:97 - Explicit wait for the list of elements to be visible: 24
+2021-08-02 17:18:23,849 DEBUG [TestNG-tests-2] ElementUtils:80 - Size of the List obtained: 24
+2021-08-02 17:18:23,876 DEBUG [TestNG-tests-2] ElementUtils:82 - Elements available in List3
+2021-08-02 17:18:23,920 DEBUG [TestNG-tests-2] ElementUtils:82 - Elements available in List4
+2021-08-02 17:18:24,278  INFO [TestNG-tests-2] ElementUtils:45 - Clicking on the Element using JavaScript Executer
+2021-08-02 17:18:24,279 DEBUG [TestNG-tests-2] ElementUtils:90 - Expected Element is available: 4
+2021-08-02 17:18:24,718  INFO [TestNG-tests-2] ElementUtils:97 - Explicit wait for the list of elements to be visible: 7
+2021-08-02 17:18:24,729 DEBUG [TestNG-tests-2] ElementUtils:80 - Size of the List obtained: 7
+2021-08-02 17:18:24,742 DEBUG [TestNG-tests-2] ElementUtils:82 - Elements available in List12:00am
+2021-08-02 17:18:24,768 DEBUG [TestNG-tests-2] ElementUtils:82 - Elements available in List12:30am
+2021-08-02 17:18:24,800 DEBUG [TestNG-tests-2] ElementUtils:82 - Elements available in List1:00am
+2021-08-02 17:18:24,877  INFO [TestNG-tests-2] ElementUtils:45 - Clicking on the Element using JavaScript Executer
+2021-08-02 17:18:24,878 DEBUG [TestNG-tests-2] ElementUtils:90 - Expected Element is available: 1:00am
+2021-08-02 17:18:25,894  INFO [TestNG-tests-2] ElementUtils:80 - selectRequestDemoOption --- Passed!
+2021-08-02 17:18:25,899  INFO [TestNG-tests-2] ElementUtils:70 - enterDetailsForRequestDemo started!
+2021-08-02 17:18:25,921  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: 
+2021-08-02 17:18:25,942  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: 
+2021-08-02 17:18:26,128  INFO [TestNG-tests-2] ElementUtils:51 - Cleared text field for: By.xpath: //input[@name = 'full_name']
+2021-08-02 17:18:26,158  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: 
+2021-08-02 17:18:26,179  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: 
+2021-08-02 17:18:26,486  INFO [TestNG-tests-2] ElementUtils:53 - Entering the value: Cibi
+2021-08-02 17:18:26,509  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: 
+2021-08-02 17:18:26,529  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: 
+2021-08-02 17:18:26,728  INFO [TestNG-tests-2] ElementUtils:51 - Cleared text field for: By.xpath: //input[@name = 'email']
+2021-08-02 17:18:26,751  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: 
+2021-08-02 17:18:26,772  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: 
+2021-08-02 17:18:27,142  INFO [TestNG-tests-2] ElementUtils:53 - Entering the value: cibitbe
+2021-08-02 17:18:27,172  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: 
+2021-08-02 17:18:27,184  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: 
+2021-08-02 17:18:27,353  INFO [TestNG-tests-2] ElementUtils:51 - Cleared text field for: By.xpath: //textarea[@type = 'textarea']
+2021-08-02 17:18:27,378  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: 
+2021-08-02 17:18:27,397  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: 
+2021-08-02 17:18:27,831  INFO [TestNG-tests-2] ElementUtils:53 - Entering the value: Demo Check
+2021-08-02 17:18:27,847  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: Schedule Event
+2021-08-02 17:18:27,861  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: Schedule Event
+2021-08-02 17:18:28,061  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: Schedule Event
+2021-08-02 17:18:28,113  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: Schedule Event
+2021-08-02 17:18:28,326  INFO [TestNG-tests-2] ElementUtils:73 - Element Presence for: Schedule Event - true
+2021-08-02 17:18:28,352  INFO [TestNG-tests-2] ElementUtils:42 - Retrieving Element: Schedule Event
+2021-08-02 17:18:28,376  INFO [TestNG-tests-2] ElementUtils:21 - Flashing over the Element: Schedule Event
+2021-08-02 17:18:28,595  INFO [TestNG-tests-2] ElementUtils:80 - enterDetailsForRequestDemo --- Passed!
+2021-08-02 17:18:29,766  INFO [TestNG-tests-2] ElementUtils:59 - Test Suite is Ending!
+2021-08-02 17:18:29,769 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-02 17:18:29,770 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2021-08-02 17:18:29,771 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2021-08-02 17:18:29,771 DEBUG [TestNG-tests-2] cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Cibi%20Karthik/.m2/repository/com/aventstack/extentreports/3.1.1/extentreports-3.1.1.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2021-08-02 17:18:29,788 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-02 17:18:29,789 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2021-08-02 17:18:29,790 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2021-08-02 17:18:29,790 DEBUG [TestNG-tests-2] cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Cibi%20Karthik/.m2/repository/com/aventstack/extentreports/3.1.1/extentreports-3.1.1.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2021-08-02 17:18:29,795 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-02 17:18:29,796 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2021-08-02 17:18:29,797 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2021-08-02 17:18:29,797 DEBUG [TestNG-tests-2] cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Cibi%20Karthik/.m2/repository/com/aventstack/extentreports/3.1.1/extentreports-3.1.1.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2021-08-02 17:18:29,802 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-02 17:18:29,804 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2021-08-02 17:18:29,805 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2021-08-02 17:18:29,805 DEBUG [TestNG-tests-2] cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Cibi%20Karthik/.m2/repository/com/aventstack/extentreports/3.1.1/extentreports-3.1.1.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2021-08-02 17:18:29,820 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-02 17:18:29,821 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2021-08-02 17:18:29,822 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2021-08-02 17:18:29,822 DEBUG [TestNG-tests-2] cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Cibi%20Karthik/.m2/repository/com/aventstack/extentreports/3.1.1/extentreports-3.1.1.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2021-08-02 17:18:29,832 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-02 17:18:29,833 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2021-08-02 17:18:29,834 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2021-08-02 17:18:29,834 DEBUG [TestNG-tests-2] cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Cibi%20Karthik/.m2/repository/com/aventstack/extentreports/3.1.1/extentreports-3.1.1.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2021-08-02 17:18:29,847 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-08-02 17:18:29,853 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-08-02 17:18:29,855 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-08-02 17:18:29,857 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-08-02 17:18:29,859 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-08-02 17:18:29,861 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-08-02 17:18:29,863 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-08-02 17:18:29,865 DEBUG [TestNG-tests-2] cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-08-02 17:18:29,866 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-02 17:18:29,867 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2021-08-02 17:18:29,868 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2021-08-02 17:18:29,868 DEBUG [TestNG-tests-2] cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Cibi%20Karthik/.m2/repository/com/aventstack/extentreports/3.1.1/extentreports-3.1.1.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2021-08-02 17:18:29,884 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-02 17:18:29,885 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2021-08-02 17:18:29,886 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2021-08-02 17:18:29,886 DEBUG [TestNG-tests-2] cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Cibi%20Karthik/.m2/repository/com/aventstack/extentreports/3.1.1/extentreports-3.1.1.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2021-08-02 17:18:29,893 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-02 17:18:29,894 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2021-08-02 17:18:29,895 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2021-08-02 17:18:29,895 DEBUG [TestNG-tests-2] cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Cibi%20Karthik/.m2/repository/com/aventstack/extentreports/3.1.1/extentreports-3.1.1.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2021-08-02 17:18:29,902 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-02 17:18:29,902 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2021-08-02 17:18:29,903 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2021-08-02 17:18:29,903 DEBUG [TestNG-tests-2] cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Cibi%20Karthik/.m2/repository/com/aventstack/extentreports/3.1.1/extentreports-3.1.1.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2021-08-02 17:18:29,911 DEBUG [TestNG-tests-2] cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-02 17:18:29,912 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2021-08-02 17:18:29,913 DEBUG [TestNG-tests-2] cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2021-08-02 17:18:29,913 DEBUG [TestNG-tests-2] cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Cibi%20Karthik/.m2/repository/com/aventstack/extentreports/3.1.1/extentreports-3.1.1.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
